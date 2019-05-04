@@ -8,9 +8,9 @@ Android: https://www.coolapk.com/apk/cn.crane.application.cookbook
 
 WeChat:
 
-![微信小程序](/Users/yucrane/Documents/Project/crane_studio/release/cookbook_release/img/mini_code.jpg)
+![微信小程序](./img/mini_code.jpg)
 
 Alipay:
 
-![支付宝小程序](/Users/yucrane/Documents/Project/crane_studio/release/cookbook_release/img/mini_code_alipay.jpg)
+![支付宝小程序](./img/mini_code_alipay.jpg)
 
