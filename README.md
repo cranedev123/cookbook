@@ -12,5 +12,7 @@ WeChat:
 
 Alipay:
 
-![支付宝小程序](./img/mini_code_alipay.jpg)
+<img src="./img/mini_code_alipay.jpg" width="250" align=center />
+
+
 
