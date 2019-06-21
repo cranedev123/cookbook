@@ -2,9 +2,9 @@
 
 DownLoad:
 
-iOS: <https://itunes.apple.com/app/id1460588244>
+iOS App: <https://itunes.apple.com/app/id1460588244>
 
-Android: https://www.coolapk.com/apk/cn.crane.application.cookbook
+Android App: https://www.coolapk.com/apk/cn.crane.application.cookbook
 
 WeChat:
 
